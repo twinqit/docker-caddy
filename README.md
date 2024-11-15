@@ -1,2 +1,3 @@
-# docker-caddy
-Caddy docker image with Cloudflare plugin activated
+# Docker Caddy
+
+Caddy docker image with Cloudflare plugin activated.
